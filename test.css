@@ -1,0 +1,34 @@
+header {
+    text-align: center;
+    color: white;
+    background-color: #ef33b4;
+    margin-top: 50px;
+    margin-right: 300px;
+    margin-left: 300px;
+}
+
+
+
+div.info {
+    display: inline-block; width: 33%;
+    
+
+}
+
+div.footer {
+    text-align: center;
+    background-color: #EBF00FF;
+    border: dashed;
+    margin-left: 135px;
+    margin-right: 135px;
+    border-radius: 20px;
+
+}
+p.foot {
+    color: #3b72ff;
+}
+h2.foot {
+    color: #ef33b4;
+}
+
+
